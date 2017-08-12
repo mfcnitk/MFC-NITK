@@ -1,2 +1,2 @@
-# mfc-nitk
-Information about students and their working 
+<h4 align='center'> MFC-Nitk</h4>
+
